@@ -1,6 +1,8 @@
-# AngularEkart
+# Angular Ekart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
+This is the app from the below youtube tutorial:
+https://www.youtube.com/watch?v=cUsnmDhdvN8
 
 ## Development server
 
